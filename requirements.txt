@@ -1,0 +1,2 @@
+pandas>=1.4.3
+setuptools>=45.2.0

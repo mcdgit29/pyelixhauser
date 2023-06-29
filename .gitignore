@@ -1,0 +1,9 @@
+# Specify filepatterns you want git to ignore.
+.pytest_cache/
+build/
+pyelixhauser.egg/
+venv/
+pyelixhauser.egg-info/
+__pycache__
+.idea/
+.DS_Store
