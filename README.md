@@ -1,4 +1,4 @@
-# pyelixhauser A package to encode Comorbidity
+# pyelixhauser A package to Encode Comorbidity
 
 ## Introduction
 Pyelixhauser is a python package intended extract comorbidity information from  
